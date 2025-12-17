@@ -17,6 +17,9 @@
 *   Roblox ecosystem
 *   AI based business idea generator/stealer form hypercompetitive markets
 *   barrier to entry breaker
+*   AI api for isolated python containers
+*   AI api for memory and rag
+*   AI api for image chroma keying and video editing
   
 ## Hardware
 - Portable Display battery pac Mac Mini
