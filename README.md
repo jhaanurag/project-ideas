@@ -1,5 +1,6 @@
 ### i overflow with ideas so i will drop some here
 ## Software
+*   AI motion + video + sound editor
 *   AI entrepreneur
 *   JSON prompt generator and CRUD 
 *   AI marketing
@@ -13,7 +14,7 @@
 *   Time Optimizer AI
 *   Bad Advice/Idea Rejector
 *   alternate history finder
-*   b2b opportunitiess finder
+*   b2b opportunities finder
 *   Roblox ecosystem
 *   AI based business idea generator/stealer form hypercompetitive markets
 *   barrier to entry breaker
