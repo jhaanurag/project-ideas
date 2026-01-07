@@ -22,6 +22,7 @@
 *   AI api for multi-app context memory
 *   AI for live vfx / streaming edits
 *   AI learning OS
+*   componentify / turn elements form any where to a reusable shadcn compatible component
   
 ## Hardware
 - fully offline indie self-hosting solution for open llm - neatly packaged
